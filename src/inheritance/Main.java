@@ -9,7 +9,7 @@ public class Main {
         Object obj1 = new Object();
         A a = (A)obj1;
         a.doSomething();
-
+        // new changes
     }
 }
 
