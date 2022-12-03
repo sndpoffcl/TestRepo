@@ -10,6 +10,7 @@ public class Main {
         A a = (A)obj1;
         a.doSomething();
         // new changes
+        // new changes f3
     }
 }
 
